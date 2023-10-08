@@ -1,0 +1,64 @@
+
+
+Topics:
+
+  1. Updating phases in life-cycle
+
+  Create a E-Commerce Application,
+    List all the Product --> Product Listing
+    Add Product to Cart --> Add to Cart
+    Edit the Quantity in Cart --> Edit Quantity
+    Delete product from Cart --> Delete
+
+  Adding Pages to the Application,
+    Pages:
+      Homepage ---> Should Display all the products
+      Add Movie ---> Should have form where we can create new product
+      Edit Movie ---> Should have prefilled form where we can edit old product
+      Dashboard --> Separate page for displaying dashboard
+    
+    Functionalities, Add, Edit, Delete
+
+  react-router-dom:
+    Routing the DOM using the url path,
+
+      uses window props location, history
+  
+    BrouserRouter:
+      parent wrapper tag which includes the routes tag
+
+    Routes:
+      includes all the routes
+
+    Route:
+      route with a pathname binds a dom to the path
+      
+    Link:
+      Link - anchor to a specific path
+      Navigates from one page to the other page
+
+    path params:
+      useParams
+
+Next Session:
+
+  Unmounting
+
+  Passing data from child to parent component
+
+  Passing Dynamic Data to Components
+
+  Default Route:
+      default dom element when no route/path is found
+  Navigate:
+    navigates to the specified route
+  query params:
+    useSearchParams
+
+
+Task:
+
+  Day 24:
+   https://docs.google.com/document/d/1nuVbWYwyP7N1zC9rAoO0taVvthGWsaHH-nfhNdklTQw/edit
+  
+  React Router DOM
